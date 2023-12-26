@@ -14,4 +14,4 @@ export const store = createStore({
     getters
 })
 
-export default {store}
+export default store
